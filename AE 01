@@ -1,0 +1,43 @@
+AE 01 - Artefato de Entrega
+
+
+1. Problema Investigado
+Um funcionário responsável pelo setor de contabilidade possui diversas demandas adicionais em sua rotina. Além da conferência de valores de entrada e saída, precisa atender clientes, realizar pagamentos e executar compras. Por diversas vezes, pessoas que moram em regiões distantes entram em contato tentando agendar atendimento imediato quando o funcionário não está no loca, ou ocorre de haver aglomerado de clientes em um mesmo horário. Devido as diversas atividades diárias, há disfunções na agenda, gerando choques nos horários ou atrasos em entregas urgentes. 
+
+2. Quem é afetado?
+Usuário principal: funcionário do setor.
+Outras pessoas ou processos afetados: Clientes/Demandas diárias.
+
+3. O que eu já sei?
+- Não utilizam pacote Microsoft 365;
+- Atividades repetitivas que poderiam ser automatizadas;
+-
+
+4. O que eu acho que sei?
+- Não há registros em agendas digitais;
+- Não há utilização de IA nos processos.
+-
+
+5. O que eu ainda não sei?
+Na verdade, não tenho ciência de como exatamente ocorre os processos. Para isso, será necessária uma análise com o colaborador da empresa, a fim de investigar como as atividades são executadas, a causa raiz e quais são as ferramentas que podem ser implementadas para resolução do problema.
+
+6. O que eu preciso descobrir?
+- Quais são as atividades diárias;
+- Como as atividades são executadas;
+- De que forma elas impactam;
+- Quais ferramentas podem ser implementadas;
+- Qual a forma mais viável para a empresa adquirir essas ferramentas.
+
+7. Como vou investigar?
+O QUE PRECISO CERTO
+1. Atividades distintas
+2. Quais ferramentas implementar
+
+COMO VOU INVESTIGAR
+1. Entrevista
+2. Conversa com colaborador
+3. Registro dos procedimentos 
+4. Observação
+
+8. Que evidência eu espero encontrar?
+Espera-se encontrar uma melhor organização das atividades diárias, com maior clareza sobre as ações a serem executadas e redução do tempo gasto no planejamento e na realização das tarefas. Essa evidência poderá ser observada por meio de um registro diário das atividades e da comparação entre a organização da rotina antes e após a implementação do agendamento diário.
